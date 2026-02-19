@@ -1,14 +1,15 @@
-# Show do Javão – O Desafio dos Mil Bytes
+# Show do Javão
 
-Um jogo de perguntas e respostas sobre JavaScript, direto no terminal!
+## Autor
+- Yago dos Santos
 
-## 🎮 Sobre o Jogo
+## Descrição
+Jogo de perguntas e respostas inspirado no formato do Show do Milhão.
+O jogador deve responder corretamente às perguntas para acumular pontos.
+Ao errar uma pergunta, o jogo termina e a pontuação final é exibida.
 
-O jogador deve responder corretamente a uma sequência de 7 perguntas para acumular pontos. Cada acerto vale 10 pontos. O jogo termina quando o jogador erra uma pergunta ou quando todas as perguntas são respondidas corretamente.
+## Como executar
 
-## 🚀 Como Jogar
-
-1. Clone o repositório:
+1. Clonar o repositório:
 ```bash
-git clone https://github.com/Yagodsantos/jogo-do-advinha.git
-cd jogo-do-advinha
+git clone https://github.com/Yagodsantos/jogo-do-advinha
